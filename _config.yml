@@ -52,6 +52,11 @@ footer:
       style: link
       new_window: false
       type: action
+    - label: lorem-ipsum
+      url: lorem-ipsum
+      style: link
+      new_window: false
+      type: action
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created on <a
     href="https://www.stackbit.com" target="_blank" rel="noopener">Stackbit</a>.
